@@ -1,0 +1,1 @@
+Host these with Content-Type text/vcard and fix paths in htmls

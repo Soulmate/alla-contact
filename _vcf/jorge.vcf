@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sosa;Jorge;;;
+FN:Jorge Sosa
+TITLE:Founder & Branch Manager Spain
+ORG:SSE Logistics
+TEL;TYPE=WORK,VOICE:+34626844255
+EMAIL;TYPE=PREF,INTERNET:jorge@sse-logistics.de
+URL:https://sse-logistics.de/
+END:VCARD
